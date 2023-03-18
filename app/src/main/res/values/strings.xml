@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Latihan18Maret</string>
+    <string name="tv_home">Hallo, Selamat Datang</string>
+    <string name="tv_name">Nama</string>
+    <string name="tv_username" translatable="false">Username</string>
+    <string name="tv_pass">Kata Sandi</string>
+    <string name="tv_pass2">Ulangi Kata Sandi</string>
+    <string name="tv_register">Daftar</string>
+    <string name="tv_login">Masuk</string>
+</resources>

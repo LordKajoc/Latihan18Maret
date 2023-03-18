@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Latihan18Maret</string>
+    <string name="tv_home">Halo, Willkomen</string>
+    <string name="tv_name">Namen</string>
+    <string name="tv_pass">Passwort</string>
+    <string name="tv_pass2">Passwort Umschreiben</string>
+    <string name="tv_register">Registrieren</string>
+    <string name="tv_login">Anmeldung</string>
+</resources>
